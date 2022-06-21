@@ -1,0 +1,35 @@
+* Sistemas Web
+**** São software/aplicações hospedados na internet/intranet onde o usuário
+**** ...pode acessar através de requisições http por um navegador.
+**** Sistemas web permitem ser acessados sem a necessidade de download e instalação da aplicação.
+**** Outra definição de aplicação web, é onde tudo é processado em algum servidor.
+** Vantagens de um sistema Web:
+**** é seguro, já que aplicação e banco são hospedados em servidores em locais
+**** ...especializados, além de poder contar com certificados de segurança.
+**** Sistemas web são mais acessíveis já que não necessitam realizar download e nem
+**** .. baixar dependẽncia para sua utilização.
+**** Mais rápido e menos trabalhoso a disponibilização de novas atualizações.
+** Python para web:
+**** python é uma linguagem que é utilizada em muitos segmentos, como ciência de dados,
+**** ... administração de sistemas, desenvolvimento de software desktops (GUI), jogos,
+**** ... aplicativos e é claro para sistema web.
+**** Python tem crescido cada vez mais no desenvolvimento de aplicações web muito por conta
+**** ... de seus ótimos frameworks, onde o mais usado é o Django.
+**** Além do Django, existem outros frameworks que auxiliam no desenvolvimento web com Python
+**** ... que também são muito populares, como: flask, pyramid, tornado, web2py e bottle.
+* Framework Django
+*** Django é um framework web python de alto nívek que incentiva o rápido desenvolvi-
+*** ... mento e um design limpo.
+*** O Django abstrai muito do trabalho do desenvolvedor, por cuidar de grande parte
+*** ... do desenvolvimento web, possibilitando o desenvolvedor focar apenas no core
+*** ... da sua aplicação.
+*** Django é gratuito e open-source.
+*** Django é o framework python mais popular no mercado.
+*** para uma aplicação elegante, além do conteúdo do curso, fundamental estudar html,
+*** ... css e javascript. <= vão dar a cara da aplicação.
+* Ambiente Hello World!
+** Virtualenv
+*** Ferramenta para criar ambientes python isolados
+*** Vem integrado com o python desde a versão 3.3
+*** Extremamente útil para se trabalhar com projetos que utilizam biliotecas com
+*** ... versões diferentes
